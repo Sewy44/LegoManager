@@ -1,0 +1,12 @@
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\LegoManager\LegoManager.Models\bin\Debug\LegoManager.Models.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\LegoManager\LegoManager.Models\bin\Debug\LegoManager.Models.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\LegoManager\LegoManager.Models\obj\Debug\LegoManager.Models.csprojAssemblyReference.cache
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\LegoManager\LegoManager.Models\obj\Debug\LegoManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\LegoManager\LegoManager.Models\obj\Debug\LegoManager.Models.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Classwork\LegoManager\LegoManager.Models\obj\Debug\LegoManager.Models.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M2\LegoManager\LegoManager.Models\bin\Debug\LegoManager.Models.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M2\LegoManager\LegoManager.Models\bin\Debug\LegoManager.Models.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M2\LegoManager\LegoManager.Models\obj\Debug\LegoManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M2\LegoManager\LegoManager.Models\obj\Debug\LegoManager.Models.dll
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M2\LegoManager\LegoManager.Models\obj\Debug\LegoManager.Models.pdb
+C:\Users\Jamie\source\repos\online-net-2021-sewy44\Summatives\M2\LegoManager\LegoManager.Models\obj\Debug\LegoManager.Models.csproj.AssemblyReference.cache
